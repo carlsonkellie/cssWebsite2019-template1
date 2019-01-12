@@ -4,348 +4,348 @@ Author URI : http://www.markups.io/
 ========================================*/
 .login:hover,
 .login:focus{
-  background-color: #2bcdc1; 
+  background-color: #16a085; /*#2bcdc1*/
 }
 
 .navbar-brand {
-  color: #2bcdc1 !important; 
+  color: #16a085 !important; 
 }
 
 .navbar-brand:hover,
 .navbar-brand:focus{
-  color: #2bcdc1 !important;  
+  color: #16a085 !important;  
 }
 
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #2bcdc1 !important;  
+  color: #16a085 !important;  
 }
 
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-  color: #2bcdc1;
+  color: #16a085;
 }
 
 .main-nav > li > a:hover::before,
 .navbar-default .navbar-nav > .active > a::before,
 .navbar-default .navbar-nav > .open > a:hover::before {
-  background-color: #2bcdc1; 
+  background-color: #16a085; 
 }
 
 .main-nav .dropdown:hover .dropdown-toggle{ 
-  color: #2bcdc1; 
+  color: #16a085; 
 }
 
 .main-nav .dropdown:hover .dropdown-toggle::before{
-  background-color: #2bcdc1;
-  color: #2bcdc1; 
+  background-color: #16a085;
+  color: #16a085; 
 }
 
 .navbar-default .navbar-nav > .open > a, 
 .navbar-default .navbar-nav > .open > a:hover, 
 .navbar-default .navbar-nav > .open > a:focus {  
-  color: #2bcdc1;
+  color: #16a085;
 }
 
 .navbar-nav > li > .dropdown-menu {
-  border-top: 2px solid #2bcdc1;  
+  border-top: 2px solid #16a085;  
 }
 
 .navbar-nav > li > .dropdown-menu > li > a:hover,
 .navbar-nav > li > .dropdown-menu > li > a:focus{ 
-  color: #2bcdc1;
+  color: #16a085;
 }
 
 .main-slider .slick-prev:hover,
 .main-slider .slick-next:hover{
-  background-color: #2bcdc1;
+  background-color: #16a085;
 }
 
 .main-slider .slick-dots li button::before {
-  color: #2bcdc1;    
+  color: #16a085;    
 }
 
 .read-more-btn:hover,
 .read-more-btn:focus{
-  background-color: #2bcdc1;  
+  background-color: #16a085;  
 }
 
 .title-area .title {
-  color: #2bcdc1;  
+  color: #16a085;  
 }
 
 .single-feature .feature-icon {
-  color: #2bcdc1;
+  color: #16a085;
 }
 
 .feat-title{
-  color: #2bcdc1;
+  color: #16a085;
 }
 
 .our-skill h3{
-  color: #2bcdc1;
+  color: #16a085;
 }
 
 .our-skill h3::after {
-  background-color: #2bcdc1;
+  background-color: #16a085;
 }
 
 .our-skill-content .progress-bar {
-  background-color: #2bcdc1;    
+  background-color: #16a085;    
 }
 
 .why-choose-us h3{
-  color: #2bcdc1;  
+  color: #16a085;  
 }
 
 .why-choose-us h3::after {
-  background-color: #2bcdc1;  
+  background-color: #16a085;  
 }
 
 .panel-title > a:hover,
 .panel-title > a:focus{
-  color: #2bcdc1;
+  color: #16a085;
 }
 
 .single-counter .counter-label::after {
-  background-color: #2bcdc1;  
+  background-color: #16a085;  
 }
 
 .price-title {
-  background-color: #2bcdc1;
+  background-color: #16a085;
 }
 
 .purchase-btn:hover,
 .purchase-btn:focus{
-  background-color: #2bcdc1;
-  border-color: #2bcdc1;  
+  background-color: #16a085;
+  border-color: #16a085;  
 }
 
 .featured-price .price-header{
-  background-color: #2bcdc1;
+  background-color: #16a085;
 }
 
 .featured-price .purchase-btn{
-  background-color: #2bcdc1;
-  border-color: #2bcdc1;
+  background-color: #16a085;
+  border-color: #16a085;
 }
 
 .team-member-img {  
-  border: 2px solid #2bcdc1;  
+  border: 2px solid #16a085;  
 }
 
 .single-team-member:hover{
-  border: 2px solid #2bcdc1;
+  border: 2px solid #16a085;
 }
 
 .single-team-member:hover .team-member-link{
-  background-color: #2bcdc1;  
+  background-color: #16a085;  
 }
 
 .team-member-link {
-  border: 2px solid #2bcdc1;
+  border: 2px solid #16a085;
 }
 
 .testimonial-content h6 span {
-  color: #2bcdc1;
+  color: #16a085;
 }
 
 .testimonial-slider .slick-dots li {
-  border: 1px solid #2bcdc1; 
+  border: 1px solid #16a085; 
 }
 
 .blog-news-title h2>a:hover{
-  color: #2bcdc1;  
+  color: #16a085;  
 }
 
 .blog-news-title .blog-author:hover{
-  color: #2bcdc1;
+  color: #16a085;
 }
 
 .blog-more-btn:hover,
 .blog-more-btn:focus{
-  color: #2bcdc1;  
+  color: #16a085;  
 }
 
 .subscribe-btn {
-  background-color: #2bcdc1;
+  background-color: #16a085;
 }
 
 .scrollToTop {
-  background-color: #2bcdc1;
+  background-color: #16a085;
 }
 
 .scrollToTop:hover,
 .scrollToTop:focus{
-  color: #2bcdc1;
-  border: 1px solid #2bcdc1; 
+  color: #16a085;
+  border: 1px solid #16a085; 
 }
 
 .portfolio-menu ul li:hover,
 .portfolio-menu ul li.active{
-  background-color: #2bcdc1;
-  border-color: #2bcdc1; 
+  background-color: #16a085;
+  border-color: #16a085; 
 }
 
 .single-item-content::after {
-  border: 4px solid #2bcdc1;  
+  border: 4px solid #16a085;  
 }
 
 .view-icon:hover{
-  color: #2bcdc1;
+  color: #16a085;
 }
 
 .pagination-nav li a:hover,
 .pagination-nav li a:focus { 
-  background-color: #2bcdc1;
-  border-color: #2bcdc1; 
+  background-color: #16a085;
+  border-color: #16a085; 
 }
 
 .sidebar-widget ul>li>a:hover{
-  color: #2bcdc1;
+  color: #16a085;
 }
 
 .search-group .blog-search-btn {
-  background-color: #2bcdc1;  
+  background-color: #16a085;  
 }
 
 .search-group input[type="search"] {  
-  border: 1px solid #2bcdc1;  
+  border: 1px solid #16a085;  
 }
 
 .search-group input[type="search"]:focus{
-  border-color: #2bcdc1;
+  border-color: #16a085;
 }
 
 .widget-title::after {
-  background-color: #2bcdc1;  
+  background-color: #16a085;  
 }
 
 .widget-catg li{
-  color: #2bcdc1;
+  color: #16a085;
 }
 
 .widget-catg li a:hover,
 .widget-catg li a:focus{
-  color: #2bcdc1; 
+  color: #16a085; 
 }
 
 .tag-cloud a:hover,
 .tag-cloud a:focus{
-  background-color: #2bcdc1;
-  border-color: #2bcdc1;  
+  background-color: #16a085;
+  border-color: #16a085;  
 }
 
 .widget-archive li a:hover,
 .widget-archive li a:focus{
-  color: #2bcdc1;
+  color: #16a085;
 }
 
 .blog-single-tag a:hover,
 .blog-single-tag a:focus {
-  color: #2bcdc1;  
+  color: #16a085;  
 }
 
 .blog-single-social a:hover,
 .blog-single-social a:focus {  
-  color: #2bcdc1;
-  border-color: #2bcdc1;
+  color: #16a085;
+  border-color: #16a085;
 }
 
 .blog-navigation-prev a>span{
-  color: #2bcdc1;  
+  color: #16a085;  
 }
 
 .blog-navigation-next a>span{
-  color: #2bcdc1;  
+  color: #16a085;  
 }
 
 .comments-form .form-control:focus {
-  border-color: #2bcdc1;  
+  border-color: #16a085;  
 }
 
 .comments-box-area h2::after {
-  background-color: #2bcdc1;
+  background-color: #16a085;
 }
 
 .comment-btn:hover{
-  background-color: #2bcdc1;
-  border-color: #2bcdc1;  
+  background-color: #16a085;
+  border-color: #16a085;  
 }
 
 .contact-area-left h4::after {
-  background-color: #2bcdc1;
+  background-color: #16a085;
 }
 
 #login-content .form-control:focus {
-  border-color: #2bcdc1;  
+  border-color: #16a085;  
 }
 
 .loginbox .signin-btn {
-  background-color: #2bcdc1;  
+  background-color: #16a085;  
 }
 
 .footer-box a:hover,
 .footer-box a:focus{
-  color: #2bcdc1;
+  color: #16a085;
 }
 
 #signup-content .modal-title {
-  color: #2bcdc1;
+  color: #16a085;
 }
 
 #signup-content .form-control:focus {
-  border-color: #2bcdc1;  
+  border-color: #16a085;  
 }
 
 .signupbox span a:hover{
-  color: #2bcdc1; 
+  color: #16a085; 
 }
 
 .navbar-default .navbar-toggle {
-  border-color: #2bcdc1;
+  border-color: #16a085;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-  background-color: #2bcdc1;
+  background-color: #16a085;
 }
 
 #search-icon {
-  color: #2bcdc1;  
+  color: #16a085;  
 }
 
 #login-content .modal-title {
-  color: #2bcdc1;
+  color: #16a085;
 }
 
 .service-icon {
-  color: #2bcdc1;
+  color: #16a085;
 }
 
 .footer-left p a:hover{
-  color: #2bcdc1;
+  color: #16a085;
 }
 
 .footer-right a:hover{
-  color: #2bcdc1;
+  color: #16a085;
 }
 
 .single-page-header-right .breadcrumb li{
-  color: #2bcdc1;
+  color: #16a085;
 }
 
 .error-title {
-  background-color: #2bcdc1;
-  border: 2px solid #2bcdc1;  
+  background-color: #16a085;
+  border: 2px solid #16a085;  
 }
 
 .error-content span {
-  color: #2bcdc1; 
+  color: #16a085; 
 }
 
 .error-content .error-home {
-  background-color: #2bcdc1;  
+  background-color: #16a085;  
 }
 /*=======================================
 Template Design By MarkUps.
